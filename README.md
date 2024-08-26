@@ -1,7 +1,8 @@
 ## Hi there 👋, I'm Marlene!
 
-- 💻 Data Scientist by heart | Data Engineer | IT Professional | Cybersecurity Enthusiast by choice
-- 🌱 I'm constantly learning new technologies and methodologies in technology
+- 🎯 Data Scientist | Data Engineer | IT Professional | Cybersecurity Enthusiast | Electronic Engineer | Pre Sales Engineer with over 15 years of experience in Telecommunications
+- 👩‍💻 Currently working supporting IT systems for Morgan Stanley
+- 🌱 I'm constantly learning new technologies and methodologies
 - 👯 I'm looking to colaborate with communities that empower underrespresented groups in tech
 - 📫 How to reach me: https://www.linkedin.com/in/mtpradoc
 - 😄 Pronouns: She/her
