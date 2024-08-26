@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋, I'm Marlene!
+
+- 💻 Data Scientist by heart | Data Engineer | IT Professional | Cybersecurity Enthusiast by choice
+- 🌱 I'm constantly learning new technologies and methodologies in technology
+- 👯 I'm looking to colaborate with communities that empower underrespresented groups in tech
+- 📫 How to reach me: https://www.linkedin.com/in/mtpradoc
+- 😄 Pronouns: She/her
 
 <!--
 **mtpradoc/mtpradoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
