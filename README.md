@@ -5,7 +5,7 @@
 - 🌱 I'm constantly learning new technologies and methodologies.
 - ⚡ I thrive on solving complex problems and always look for new challenges to sharpen my skills.
 - 👯 I'm looking to colaborate with communities that empower underrespresented groups in tech.
-- 📫 How to reach me: https://www.linkedin.com/in/mtpradoc
+- 📫 How to reach me: @mtpradoc on Twitter
 - 😄 Pronouns: She/her
 
 <!--
