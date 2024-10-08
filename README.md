@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Marlene!
 
 - 🎯 Data Scientist | Data Engineer | IT Professional | Cybersecurity Enthusiast | Electronics Engineer | Pre Sales Engineer with experience in Telecommunications.
-- 👩‍💻 Currently working supporting IT systems for Morgan Stanley.
+- 👩‍💻 Currently working supporting companies analyzng their data.
 - 🌱 I'm constantly learning new technologies and methodologies.
 - ⚡ I thrive on solving complex problems and always look for new challenges to sharpen my skills.
 - 👯 I'm looking to colaborate with communities that empower underrespresented groups in tech.
