@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Marlene!
 
-- 🎯 Data Scientist | Data Engineer | IT Professional | Cybersecurity Enthusiast | Electronics Engineer | Pre Sales Engineer with experience in Telecommunications.
+- 🎯 Data Scientist | Data Engineer | Data Analyst | Electrical Engineer | Cybersecurity Enthusiast | IT Professional
 - 👩‍💻 Currently working supporting companies analyzng their data.
 - 🌱 I'm constantly learning new technologies and methodologies.
 - ⚡ I thrive on solving complex problems and always look for new challenges to sharpen my skills.
