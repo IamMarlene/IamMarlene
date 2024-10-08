@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Marlene!
 
 - 🎯 Data Scientist | Data Engineer | Data Analyst | EE | Cybersecurity Enthusiast
-- 👩‍💻 Currently working supporting companies analyzng their data.
+- 👩‍💻 Currently working supporting companies analyzing their data.
 - 🌱 I'm constantly learning new technologies and methodologies.
 - ⚡ I thrive on solving complex problems and always look for new challenges to sharpen my skills.
 - 👯 I'm looking to colaborate with communities that empower underrespresented groups in tech.
