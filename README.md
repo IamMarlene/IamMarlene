@@ -10,7 +10,7 @@
 - ⚡ I thrive on solving complex problems and always look for new challenges to sharpen my skills.
 - 👯 I'm looking to colaborate with communities that empower underrespresented groups in tech.
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/mtpradoc)
-- 🔭 Sharing thouhgts on [X Twitter](https://twitter.com/mtpradoc)
+- 🔭 Sharing thoughts on [X Twitter](https://twitter.com/mtpradoc)
 - 😄 Pronouns: She/her
 
 <!--
