@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Marlene Prado
 
-## 🎯 Data Scientist | Data Engineer | Analyst | EE | Cybersecurity Enthusiast
+## 🎯 Data Scientist | Data Architect | IT Professional | Cybersecurity Enthusiast
 
 - 👩‍💻 Currently working supporting companies analyzing their data.
 - 🌱 I'm constantly learning new technologies and methodologies.
