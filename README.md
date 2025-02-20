@@ -7,7 +7,6 @@
 - ⚡ I thrive on solving complex problems and always look for new challenges to sharpen my skills.
 - 👯 I'm looking to colaborate with communities that empower underrespresented groups in tech.
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/mtpradoc)
-- 🔭 Sharing thoughts on [X Twitter](https://twitter.com/mtpradoc)
 - 😄 Pronouns: She/her
 
 ![SQL](https://img.shields.io/badge/-SQL-008080?style=flat-square&logo=sql&logoColor=white)  
