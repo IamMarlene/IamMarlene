@@ -35,7 +35,7 @@ FROM `your_project.your_dataset.greetings`;
 
 ```python
 welcome = ['hello', 'world', 'I', 'love']
-for index, element in enumerate(welcome)
+for index, element in enumerate(welcome):
   if index == 0:
     return element
 ```
