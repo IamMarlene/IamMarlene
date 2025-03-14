@@ -12,6 +12,7 @@
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/mtpradoc)
 - 😄 Pronouns: She/her
 
+![SQL](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-008080?style=flat-square&logo=sql&logoColor=white)  
 
 ```sql
