@@ -10,10 +10,7 @@
 - 😄 Pronouns: She/her
 
 ## 💻 Tech Stack 
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-008080?style=flat-square&logo=sql&logoColor=white) ![R](https://img.shields.io/badge/Programming-276DC3?style=flat&logo=R&logoColor=White)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-008080?style=flat-square&logo=sql&logoColor=white) ![R](https://img.shields.io/badge/Programming-276DC3?style=flat&logo=R&logoColor=White) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-pink?style=flat-square&logo=powerbi&logoColor=white)  ![Tableau](https://img.shields.io/badge/-Tableau-purple?style=flat-square&logo=tableau&logoColor=white)  ![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=Looker&color=White) 
 
