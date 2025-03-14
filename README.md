@@ -19,6 +19,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IamMarlene&theme=vue"/>
 </p>
 
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
 ```sql
 -- BigQuery SQL Snippet
