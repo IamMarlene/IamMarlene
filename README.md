@@ -1,4 +1,4 @@
-<h2 align="center"> Hola, 👋 I'm Marlene Prado</h2>
+<h1 align="center"> Hola, 👋 I'm Marlene Prado</h1>
 
 ## 🎯 Data Scientist | Data Architect | IT Professional | Cybersecurity Enthusiast
 
