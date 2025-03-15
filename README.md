@@ -5,7 +5,7 @@
 ## 🎯 Data Scientist | Data Architect | IT Professional | Cybersecurity Enthusiast
 
 - 😄 Pronouns: She/her
-- 👩‍💻 Currently learning about AI and LLMs, and also taking a bootcamp in Data Science.
+- 👩‍💻 Currenlty exploring AI and LLMs while advancing my skills in Data Science through a bootcamp.
 - 🌱 I'm constantly learning new technologies and methodologies.
 - ⚡ I thrive on solving complex problems and always look for new challenges to sharpen my skills.
 - 👯 I'm looking to colaborate with communities that empower underrespresented groups in tech.
