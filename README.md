@@ -4,12 +4,13 @@
 
 ## 🎯 Data Scientist | Data Architect | IT Professional | Cybersecurity Enthusiast
 
+- 😄 Pronouns: She/her
 - 👩‍💻 Currently learning about AI and LLMs, and also taking a bootcamp in Data Science.
 - 🌱 I'm constantly learning new technologies and methodologies.
 - ⚡ I thrive on solving complex problems and always look for new challenges to sharpen my skills.
 - 👯 I'm looking to colaborate with communities that empower underrespresented groups in tech.
-- 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/mtpradoc)
-- 😄 Pronouns: She/her
+- 📫 How to reach me: Check social links below.
+- ⚡ Fun fact: I love dancing country music.
 
 ## 💻 Tech Stack 
 ![Python](https://img.shields.io/badge/Python-%23FFD43B.svg?style=for-the-badge&logo=python&logoColor=blue)
