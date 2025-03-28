@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IamMarlene&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iammarlene" /> </p>
 
-## 🎯 AI | Data Scientist | Data Architect | IT Professional | Cybersecurity Enthusiast
+## 🎯 AI | Data Scientist | Data Engineer | Data Architect
 
 - 😄 Pronouns: She/her
 - 👩‍💻 Currenlty exploring AI and LLMs while advancing my skills in Data Science through a bootcamp.
