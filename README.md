@@ -10,7 +10,7 @@
 - ⚡ I thrive on solving complex problems and always look for new challenges to sharpen my skills.
 - 👯 I'm looking to colaborate with communities that empower underrespresented groups in tech.
 - 📫 How to reach me: Check social links below.
-- 💃 Fun fact: social events*dancing/network—my kind of algorithm for fun! 🤠🎶
+- 💃 Fun fact: social &#8721 events*dancing/network—my kind of algorithm for fun! 🤠🎶
 
 ## 💻 Tech Stack 
 ![Python](https://img.shields.io/badge/Python-%23FFD43B.svg?style=for-the-badge&logo=python&logoColor=blue)
